@@ -1,4 +1,4 @@
-# william Higgins
+# William Higgins
 
 ### Geography
 
@@ -6,7 +6,11 @@ I live in Cedar Rapids, IA and am a captive.
 
 ### Reading
 
-I like to read about economics, finance, history and health.
+I like to read about these subjects:
+- economics
+- finance
+- history
+- health
 
 ### Food
 
